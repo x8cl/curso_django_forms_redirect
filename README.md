@@ -1,0 +1,1 @@
+Ejemplo de redireccionamiento de formularios Django "Aplicaciones Full Stack Python Trainee - INACAP - 2021"
